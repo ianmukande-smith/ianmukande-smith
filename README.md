@@ -34,6 +34,14 @@ I use GitHub to document my programming progress, share coding solutions and sho
 I'm always interested in learning, collaborating and exploring opportunities in technology.
 
 Thank you for visiting my profile!
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 <!--
 **ianmukande-smith/ianmukande-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
