@@ -21,6 +21,13 @@ I'm a BCA Data Science student passionate about programming, data analysis and t
 - Practical Data Science projects
 - C programming
 
+ 🚀 Currently Working On
+
+- Practising Data Structures and Algorithms through LeetCode.
+- Improving my C and Python programming skills.
+- Planning a Data Science project on Weather and Air Pollution Analysis in India.
+- Learning data analysis and visualization using Pandas, NumPy and Matplotlib.
+
 🎯 Career Goal
 
 My goal is to become a professional Data Analyst, develop strong analytical skills and build real-world projects that solve practical problems.
@@ -44,6 +51,12 @@ Thank you for visiting my profile!
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🏆 LeetCode
+
+![LeetCode](https://img.shields.io/badge/LeetCode-My_Profile-orange?style=for-the-badge&logo=leetcode)
+
+[Visit my LeetCode Profile](https://leetcode.com/u/Smith_Mukande/)
 <!--
 **ianmukande-smith/ianmukande-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
